@@ -1,0 +1,4 @@
+echo "Substring (0,5): 
+${text:0:5}" echo "Substring (6,5): 
+${text:6:5}" echo "From position 6:
+${text:6}"
