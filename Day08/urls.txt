@@ -1,0 +1,10 @@
+https://www.google.com
+https://www.github.com
+https://www.wikipedia.org
+https://www.reddit.com
+https://www.facebook.com
+https://httpstat.us/200       
+https://httpstat.us/301       
+https://httpstat.us/404      
+https://httpstat.us/500       
+https://doesnotexist.openai.com  
